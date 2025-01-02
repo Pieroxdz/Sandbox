@@ -1,0 +1,21 @@
+:root {
+    --primary-color: #5eb9f0;
+    --paragraph-color: #60697B --heading-color: #343F52;
+    --skyblue: #E5F4FD;
+    --white: #ffffff;
+}
+
+html {
+    /* 1rem = 10px */
+    font-size: 62.5%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Urbanist", serif;
+}
