@@ -89,13 +89,38 @@ nav {
 
     & ul {
         display: none;
+
+        &.active {
+            display: flex;
+            position: absolute;
+            background-color: var(--primary-color);
+            top: 0;
+            left: 0;
+            height: 100vh;
+            flex-direction: column;
+            padding: 5rem 0 2rem;
+            text-align: center;
+            width: 100%;
+        }
+
+        & a {
+            color: var(--white);
+        }
+
+        & span {
+            font-weight: 600;
+            position: absolute;
+            right: 10px;
+            top: 20px;
+        }
     }
 }
 
 
 ul {
     list-style: none;
-    gap: 3rem;
+    display: flex;
+    gap: 4rem;
 
     & li a {
         text-decoration: none;
@@ -408,9 +433,17 @@ footer {
 
 @media (min-width: 768px) {
 
+    .btn-nav {
+        display: none;
+    }
+
     .nav-container {
         & ul {
             display: flex;
+
+            & a {
+                color: var(--paragraph-color);
+            }
         }
     }
 

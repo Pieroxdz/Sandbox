@@ -1,0 +1,148 @@
+{
+    "services": [
+        {
+            "id": 0,
+            "title": "Web Design",
+            "image": "./img/services/service1.png",
+            "description": "Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eg Fusce dapibus tellus",
+            "link": "#"
+        },
+        {
+            "id": 1,
+            "title": "Web Design",
+            "image": "./img/services/service2.png",
+            "description": "Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eg Fusce dapibus tellus",
+            "link": "#"
+        },
+        {
+            "id": 2,
+            "title": "Web Design",
+            "image": "./img/services/service3.png",
+            "description": "Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eg Fusce dapibus tellus",
+            "link": "#"
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 0,
+            "author": "Coris Ambady",
+            "image": "./img/team/te1.jpg",
+            "area": "Financial Analyst",
+            "testimonial": "“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus."
+        },
+        {
+            "id": 1,
+            "author": "Coris Ambady",
+            "image": "./img/team/te1.jpg",
+            "area": "Financial Analyst",
+            "testimonial": "“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus."
+        },
+        {
+            "id": 2,
+            "author": "Coris Ambady",
+            "image": "./img/team/te1.jpg",
+            "area": "Financial Analyst",
+            "testimonial": "“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus."
+        },
+        {
+            "id": 3,
+            "author": "Coris Ambady",
+            "image": "./img/team/te1.jpg",
+            "area": "Financial Analyst",
+            "testimonial": "“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus."
+        },
+        {
+            "id": 4,
+            "author": "Coris Ambady",
+            "image": "./img/team/te1.jpg",
+            "area": "Financial Analyst",
+            "testimonial": "“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus."
+        },
+        {
+            "id": 5,
+            "author": "Coris Ambady",
+            "image": "./img/team/te1.jpg",
+            "area": "Financial Analyst",
+            "testimonial": "“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus."
+        }
+    ],
+    "faqs": [
+        {
+            "id": 0,
+            "question": "How do I get my subscription receipt!",
+            "answer": "LLorem ipsum dolor sit amet consectetur adipisicing elit. Id vitae nulla molestiae maxime porro reiciendis?"
+        },
+        {
+            "id": 1,
+            "question": "Are there any discounts for people in need?",
+            "answer": "LLorem ipsum dolor sit amet consectetur adipisicing elit. Id vitae nulla molestiae maxime porro reiciendis?"
+        },
+        {
+            "id": 2,
+            "question": "Do you offer a free trial edit?",
+            "answer": "LLorem ipsum dolor sit amet consectetur adipisicing elit. Id vitae nulla molestiae maxime porro reiciendis?"
+        },
+        {
+            "id": 3,
+            "question": "How do I reset my Account password?",
+            "answer": "LLorem ipsum dolor sit amet consectetur adipisicing elit. Id vitae nulla molestiae maxime porro reiciendis?"
+        }
+    ],
+    "team": [
+        {
+            "id": 0,
+            "name": "Coris Ambady",
+            "image": "./img/team/te1.jpg",
+            "area": "Financial Analyst"
+        },
+        {
+            "id": 1,
+            "name": "Coris Ambady",
+            "image": "./img/team/te1.jpg",
+            "area": "Financial Analyst"
+        },
+        {
+            "id": 2,
+            "name": "Coris Ambady",
+            "image": "./img/team/te1.jpg",
+            "area": "Financial Analyst"
+        },
+        {
+            "id": 3,
+            "name": "Coris Ambady",
+            "image": "./img/team/te1.jpg",
+            "area": "Financial Analyst"
+        }
+    ],
+    "projects": [
+        {
+            "id": 0,
+            "image": "./img/projects/project1.jpg",
+            "name": "Cras Fermentum Sem",
+            "category": "Mobile Design"
+        },
+        {
+            "id": 1,
+            "image": "./img/projects/project1.jpg",
+            "name": "Venenatis Euismod Vehicula",
+            "category": "Web Design"
+        }
+    ],
+    "strategys": [
+        {
+            "id": 0,
+            "title": "Data Analysis",
+            "description": "Vivamus sagittis lacus vel augue laoreet.."
+        },
+        {
+            "id": 1,
+            "title": "Finalize Product",
+            "description": "VCras mattis consectetur purus sit amet"
+        },
+        {
+            "id": 2,
+            "title": "Collect ideas",
+            "description": "Collect Ideas Nulla vitae elit libero pharetra augue dapibus"
+        }
+    ]
+}
